@@ -1,1 +1,3 @@
 # solanabeachbot
+
+Have some issues?
